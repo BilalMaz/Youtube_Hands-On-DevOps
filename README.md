@@ -61,7 +61,7 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
           <td>https://www.youtube.com/watch?v=JvO-ITAzHrw</td>
     </tr>
     <tr>
-         <td>Tools Used in DevSecOps</td>
+         <td><h3>Tools Used in DevSecOps<h3></td>
          <td></td>
     </tr>
     <tr>
