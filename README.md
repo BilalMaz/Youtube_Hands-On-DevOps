@@ -17,9 +17,9 @@ Bilal
 #Books and References 
 
 1: https://pk1lib.org/book/3389088/bd00dd <br>
-2: https://pk1lib.org/book/3690152/330915?dsource=recommend
-3: https://www.practical-devsecops.com/devsecops-university/
-4: https://pk1lib.org/book/3596685/4a9f9e?dsource=recommend
-5: https://pk1lib.org/book/5281140/fb571f?dsource=recommend
-6: https://github.com/devsecops
-7: DevOps Bootcamp | Techworld with Nana (techworld-with-nana.com)
+2: https://pk1lib.org/book/3690152/330915?dsource=recommend<br>
+3: https://www.practical-devsecops.com/devsecops-university/<br>
+4: https://pk1lib.org/book/3596685/4a9f9e?dsource=recommend<br>
+5: https://pk1lib.org/book/5281140/fb571f?dsource=recommend<br>
+6: https://github.com/devsecops<br>
+7: DevOps Bootcamp | Techworld with Nana (techworld-with-nana.com)<br>
