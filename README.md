@@ -34,10 +34,10 @@ Bilal
 6: (808) Cloud Native Islamabad - YouTube<br>
 
   
-1: <h1><b>Slack Channel<b><h1>
+1: <h1><b>Slack Channel<b></h1>
 https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A1f7m7YS9vsWzhA
 
-2: <h1><b>DropBox<b><h1>
+2: <h1><b>DropBox<b></h1>
 TBO
 
   
