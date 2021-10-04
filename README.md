@@ -44,10 +44,14 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
           <td>Career Advice</td>
           <td>Youtube Link</td>
         </tr>
-    <tr> 
+       <tr> 
           <td>How To Become DevOPS Engineer IN HINDI | WhatsAPP No- 8817442344</td>
           <td>https://www.youtube.com/watch?v=Gx2BXJNOwxE</td>
-        </tr>
+       </tr>
+       <tr> 
+          <td>DevOps Job in Germany (Jobs in Germany)</td>
+          <td>https://www.youtube.com/watch?v=oae_Ow8F7mQ</td>
+       </tr>
     
     
   </table>
