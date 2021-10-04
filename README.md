@@ -14,3 +14,12 @@ Enjoy 🙂
 Regards. 
 Bilal
 
+#Books and References 
+
+ttps://pk1lib.org/book/3389088/bd00dd
+https://pk1lib.org/book/3690152/330915?dsource=recommend
+https://www.practical-devsecops.com/devsecops-university/
+https://pk1lib.org/book/3596685/4a9f9e?dsource=recommend
+https://pk1lib.org/book/5281140/fb571f?dsource=recommend
+https://github.com/devsecops
+DevOps Bootcamp | Techworld with Nana (techworld-with-nana.com)
