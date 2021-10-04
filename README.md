@@ -41,7 +41,7 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
   
   <table>
         <tr> 
-               <td>Career Advice</td>
+          <td><h1>Career Advice</h1></td>
                <td>Youtube Link</td>
         </tr>
        <tr> 
