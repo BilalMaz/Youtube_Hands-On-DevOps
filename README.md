@@ -8,10 +8,10 @@ I have created the Asana Project for the DevOps - security learning with timelin
 https://docs.google.com/forms/d/1InwpKvzV6vR1ngtZcyW9pw9zgV_xDbGzUDryc7txyQw/prefill
 
 
-Note : All the vidoes, pictures and content are the content of their original creators and i am just compiling in to one plac only 
+Note : All the vidoes, pictures and content are the content of their original creators and i am just compiling in to one place only 
 
-Enjoy 🙂 
-Regards. 
+Enjoy 🙂 <br>
+Regards. <br>
 Bilal
 
 <h1><b>Books and References<b></h1>
@@ -55,6 +55,10 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
      <tr> 
           <td>(682) Step by Step to learn DevOps and Cloud - YouTube</td>
           <td>https://www.youtube.com/watch?v=-bFvC1_Utj0</td>
+       </tr>
+    <tr> 
+          <td>DevOps Roadmap 2021: How to become an AWS DevOps Engineer?</td>
+          <td>https://www.youtube.com/watch?v=JvO-ITAzHrw</td>
        </tr>
     
     
