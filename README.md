@@ -26,9 +26,9 @@ Bilal
 
 
 <h1><b>YouTubes<b></h1>
-https://www.youtube.com/watch?v=-69mj3dk4WQ<br>
-https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ<br>
-https://www.youtube.com/c/TechWorldwithNana/videos<br>
-https://www.youtube.com/channel/UCT9ME2x6FR2B_vGUM83UyfA<br>
-https://brunodelb.medium.com/the-cams-model-to-better-understand-the-devops-movement-ffe6713c3fd7<br>
-(808) Cloud Native Islamabad - YouTube<br>
+1: https://www.youtube.com/watch?v=-69mj3dk4WQ<br>
+2: https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ<br>
+3: https://www.youtube.com/c/TechWorldwithNana/videos<br>
+4: https://www.youtube.com/channel/UCT9ME2x6FR2B_vGUM83UyfA<br>
+5: https://brunodelb.medium.com/the-cams-model-to-better-understand-the-devops-movement-ffe6713c3fd7<br>
+6: (808) Cloud Native Islamabad - YouTube<br>
