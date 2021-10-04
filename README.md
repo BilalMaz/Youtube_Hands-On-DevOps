@@ -32,3 +32,16 @@ Bilal
 4: https://www.youtube.com/channel/UCT9ME2x6FR2B_vGUM83UyfA<br>
 5: https://brunodelb.medium.com/the-cams-model-to-better-understand-the-devops-movement-ffe6713c3fd7<br>
 6: (808) Cloud Native Islamabad - YouTube<br>
+
+  
+1: <h1><b>Slack Channel<b><h1>
+https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A1f7m7YS9vsWzhA
+
+2: <h1><b>DropBox<b><h1>
+TBO
+
+  
+  
+  
+  
+  
