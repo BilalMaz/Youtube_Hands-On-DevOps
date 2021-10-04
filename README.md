@@ -52,6 +52,11 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
           <td>DevOps Job in Germany (Jobs in Germany)</td>
           <td>https://www.youtube.com/watch?v=oae_Ow8F7mQ</td>
        </tr>
+     <tr> 
+          <td>(682) Step by Step to learn DevOps and Cloud - YouTube</td>
+          <td>https://www.youtube.com/watch?v=-bFvC1_Utj0</td>
+       </tr>
+    
     
     
   </table>
