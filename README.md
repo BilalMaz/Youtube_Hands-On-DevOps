@@ -23,3 +23,12 @@ Bilal
 5: https://pk1lib.org/book/5281140/fb571f?dsource=recommend<br>
 6: https://github.com/devsecops<br>
 7: DevOps Bootcamp | Techworld with Nana (techworld-with-nana.com)<br>
+
+
+<h1><b>YouTubes<b></h1>
+https://www.youtube.com/watch?v=-69mj3dk4WQ<br>
+https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ<br>
+https://www.youtube.com/c/TechWorldwithNana/videos<br>
+https://www.youtube.com/channel/UCT9ME2x6FR2B_vGUM83UyfA<br>
+https://brunodelb.medium.com/the-cams-model-to-better-understand-the-devops-movement-ffe6713c3fd7<br>
+(808) Cloud Native Islamabad - YouTube<br>
