@@ -60,27 +60,13 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
           <td>DevOps Roadmap 2021: How to become an AWS DevOps Engineer?</td>
           <td>https://www.youtube.com/watch?v=JvO-ITAzHrw</td>
     </tr>
+    <tr>
+      <td>Tools Used in DevSecOps</td>
+      <td></td>
+    </tr>
     
 </table>
-  
-  <table>
-      <tr> 
-          <td>Tools Used in DevSecOps</td>
-          <td>Youtube Link</td>
-        </tr>
-    <tr> 
-          <td>DevOps Tools | Discover the Best 10 Tools of DevOps for 2020 (educba.com)</td>
-          <td>https://www.educba.com/devops-tools/</td>
-          
-    </tr>
-    
-     <tr> 
-          <td>..</td>
-          <td>..</td>
-          
-    </tr>
-    
-  </table>
+
              
   
  
