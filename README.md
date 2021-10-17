@@ -87,6 +87,14 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
    <td>Everything about Linux from Scratch-Part-1 Hindi/urdu | Linux tutorial for beginners in hindi - YouTube</td>
    <td>https://www.youtube.com/watch?v=CTZfWmMAdoI&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=5</td>
  </tr>   
+ <tr>
+   <td>Everything About Linux from Scratch Part-2 Hindi/urdu | Linux tutorial for beginners in hindi - YouTube</td>
+   <td>https://www.youtube.com/watch?v=6OfP7lf9Hjw&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=5</td>
+ </tr>
+ <tr>
+   <td>Everything about Linux from Scratch Part-3 Hindi/urdu | DevOps Tutorial for Beginners in Hindi/Urdu - YouTube</td>
+   <td>https://www.youtube.com/watch?v=5-Dspz2_aHQ&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=7</td>
+ </tr>
            
 </table>
   
