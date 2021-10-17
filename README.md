@@ -148,7 +148,37 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <td>Git Tutorial | Github Tutorial | Git Tutorial for Beginners | Intellipaat</td>
 <td>https://www.youtube.com/watch?v=dnGeRjP8oxw</td>
 </tr>
-           
+
+<tr>
+<td>DevOps : GIT Demo - Create, Clone, Merge Repositories</td>
+<td>https://www.youtube.com/watch?v=ZuHWDaGoqB8</td>
+</tr>
+
+<tr>
+<td>Git Versioning - Project -1</td>
+<td>Practics :)</td>
+</tr>
+<tr>
+<td>GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker</td>
+<td>https://www.youtube.com/watch?v=R8_veQiYBjI</td>
+</tr>
+
+<tr>
+<td>DevSecOps maturity with a developer-first, community-driven approach</td>
+<td>https://github.blog/2020-08-06-achieving-devsecops-maturity-with-a-developer-first-community-driven-approach/</td>
+</tr>
+<tr>
+<td>DevSecOps-maturity-model</td>
+<td>https://owasp.org/www-project-devsecops-maturity-model/</td>
+</tr>
+<tr>
+<td>Jenskins</td>
+<td></td>
+</tr>
+ <tr>
+<td>Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn</td>
+<td>https://www.youtube.com/watch?v=FX322RVNGj4&t=328s</td>
+</tr>          
            
            
 </table>
