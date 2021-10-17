@@ -80,6 +80,13 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
      <td>A beginner's guide to building DevOps pipelines with open source tools</td>
      <td>https://opensource.com/article/19/4/devops-pipeline</td>
    </tr>  
+  <tr>
+    <td><h3>Linux for DevOps</h3></td>
+  </tr>        
+ <tr>
+   <td>Everything about Linux from Scratch-Part-1 Hindi/urdu | Linux tutorial for beginners in hindi - YouTube</td>
+   <td>https://www.youtube.com/watch?v=CTZfWmMAdoI&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=5</td>
+ </tr>   
            
 </table>
   
