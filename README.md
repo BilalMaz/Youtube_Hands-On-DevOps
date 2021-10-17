@@ -72,7 +72,15 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
      <td>DevOps Roadmap 2021 - How to become a DevOps Engineer?</td>
      <td>https://www.youtube.com/watch?v=9pZ2xmsSDdo&t=176s</td>
    </tr>  
-    
+   <tr>
+     <td>DevOps Skills in 2020 - YouTube</td>
+     <td>https://www.youtube.com/watch?v=s2vn129av-k</td>
+   </tr>  
+   <tr>
+     <td>A beginner's guide to building DevOps pipelines with open source tools</td>
+     <td>https://opensource.com/article/19/4/devops-pipeline</td>
+   </tr>  
+           
 </table>
   
 
