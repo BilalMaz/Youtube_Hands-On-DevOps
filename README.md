@@ -130,7 +130,11 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
    <td>RHCSA 2021 | Red Hat Certified System Administrator EX200 | Tech Arkit - YouTube</td>
    <td>https://www.youtube.com/watch?v=-wNfs5fRazI</td>
    </tr>         
-           
+    
+  <tr> 
+    <td>CI/CD</td>
+    <td> Continues integration and continue deleivery</td>
+  </tr>        
 </table>
   
 
