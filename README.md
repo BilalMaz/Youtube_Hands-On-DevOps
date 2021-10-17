@@ -172,14 +172,37 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <td>https://owasp.org/www-project-devsecops-maturity-model/</td>
 </tr>
 <tr>
-<td>Jenskins</td>
+  <td><h3>Jenskins</h3></td>
 <td></td>
 </tr>
  <tr>
 <td>Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn</td>
 <td>https://www.youtube.com/watch?v=FX322RVNGj4&t=328s</td>
 </tr>          
-           
+ <tr>
+<td>Introduction to Jenkins </td>
+<td>https://www.youtube.com/watch?v=MayMkFCkzj4</td>
+</tr>   
+ <tr>
+<td>CI CD Pipeline Using Jenkins | Continuous Integration and Deployment | DevOps Tutorial | Edureka</td>
+<td>https://www.youtube.com/watch?v=m0a2CzgLNsc</td>
+</tr>  
+<tr>
+<td>Masterclass | JENKINS Complete Course for Beginners | Step by Step | Jenkins Interview Questions |</td>
+<td>https://www.youtube.com/watch?v=woMAXn4e8NA</td>
+</tr>           
+<tr>
+<td>Security Concepts</td>
+<td></td>
+</tr>  
+ <tr>
+<td>Threat Modeling, or Architectural Risk Analysis - SECURE SOFTWARE DEVELOPMENT</td>
+<td>https://www.coursera.org/lecture/software-security/threat-modeling-or-architectural-risk-analysis-bQAoU</td>
+</tr>          
+<tr>
+<td>What is Threat Modeling and Why Is It Important?</td>
+<td>https://www.youtube.com/watch?v=h_BC6QMWDbA</td>
+</tr>    
            
 </table>
   
