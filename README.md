@@ -1,4 +1,4 @@
-# DevOps-Secuirty
+# How to become DevOps-Secuirty Professional Road Map 2021 
 This is Repo is Created with the concept in mind that public anf free information that is availble to internet , we should get benefit from it. 
 #" The internet could be a very positive step towards education, organisation and participation in a meaningful society".
 Noam Chomsky
@@ -103,7 +103,10 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
    <td>Everything about Linux from Scratch Part-5 hindi/Urdu | Devops tutorial for beginners in hindi/urdu - YouTube</td>
    <td>https://www.youtube.com/watch?v=RLWp702zng8&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=8</td>
  </tr>            
-           
+<tr>
+   <td>Everything about Linux from scratch Part-6 Hindi/urdu | DevOps Tutorial for Beginners in Hindi - YouTube</td>
+   <td>https://www.youtube.com/watch?v=CkN25Y1HmiY&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=9</td>
+ </tr>            
            
 </table>
   
