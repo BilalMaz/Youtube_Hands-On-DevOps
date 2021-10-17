@@ -126,10 +126,10 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
     <td>https://www.youtube.com/watch?v=3Qo5_Is0VsY</td>
   </tr>
            
-           <tr>
-             <td>RHCSA 2021 | Red Hat Certified System Administrator EX200 | Tech Arkit - YouTube</td>
-             <td>https://www.youtube.com/watch?v=-wNfs5fRazI</td>
-           </tr>         
+  <tr>
+   <td>RHCSA 2021 | Red Hat Certified System Administrator EX200 | Tech Arkit - YouTube</td>
+   <td>https://www.youtube.com/watch?v=-wNfs5fRazI</td>
+   </tr>         
            
 </table>
   
