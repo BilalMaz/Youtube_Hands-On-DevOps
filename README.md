@@ -106,7 +106,16 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <tr>
    <td>Everything about Linux from scratch Part-6 Hindi/urdu | DevOps Tutorial for Beginners in Hindi - YouTube</td>
    <td>https://www.youtube.com/watch?v=CkN25Y1HmiY&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=9</td>
- </tr>            
+ </tr>
+           
+ <tr>
+   <td>Everything about linux from Scratch-Part-7 Hindi/Urdu | Linux commands like chmod | chgrp | chown - YouTube</td>
+   <td>https://www.youtube.com/watch?v=0jOo6aH2cNI&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=10</td>
+ </tr> 
+   <tr>
+   <td>Linux Commands for DevOps | Linux Commands Tutorial for Beginners | DevOps Training | Intellipaat</td>
+   <td>https://www.youtube.com/watch?v=hhoO57V_otc</td>
+ </tr>      
            
 </table>
   
