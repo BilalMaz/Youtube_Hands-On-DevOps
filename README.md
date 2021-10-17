@@ -64,6 +64,10 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
          <td><h3>Tools Used in DevSecOps<h3></td>
          <td></td>
     </tr>
+    <tr>
+      <td>DevOps Tools | Discover the Best 10 Tools of DevOps for 2020 (educba.com)</td>
+      <td>https://www.educba.com/devops-tools/</td>
+    </tr>       
  
     
 </table>
