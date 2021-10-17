@@ -203,6 +203,156 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <td>What is Threat Modeling and Why Is It Important?</td>
 <td>https://www.youtube.com/watch?v=h_BC6QMWDbA</td>
 </tr>    
+ <tr>
+<td>OWASP Threat Dragon Project</td>
+<td>https://owasp.org/www-project-threat-dragon/</td>
+</tr>  
+ <tr>
+<td>Microsoft Threat Modeling Tool overview - Azure</td>
+<td>https://docs.microsoft.com/en-gb/azure/security/develop/threat-modeling-tool</td>
+</tr> 
+ <tr>
+<td>Static Analysis Security Testing for Dummies… and You</td>
+<td>https://www.youtube.com/watch?v=QTVxASPP2LA</td>
+</tr> 
+<tr>
+<td>Tutorial Series: Application Security - App Security Testing (DAST & SAST)</td>
+<td>https://www.youtube.com/watch?v=_6VVW7IRys0</td>
+</tr>  
+<tr>
+<td>Static Analysis for Dynamic Assessments - OWASP AppSecUSA 2014</td>
+<td>https://www.youtube.com/watch?v=9wyYvOJpNp4</td>
+</tr>
+<tr>
+<td>Static Application Security Testing With CICD Pipelines Using Whitesource</td>
+<td>https://www.youtube.com/watch?v=q2cAj76BIPE</td>
+</tr>  
+<tr>
+<td>Dynamic Application Security Testing (DAST) Software</td>
+<td>https://portswigger.net/burp/application-security-testing/dast</td>
+</tr>
+<tr>
+<td>Automating DAST Scans with Jenkins, Arachni & ThreadFix</td>
+<td>https://blog.secodis.com/2016/03/17/automated-security-tests-3-jenkins-arachni-threadfix/</td>
+</tr>           
+<tr>
+<td>Integrating OWASP ZAP in DevSecOps Pipeline</td>
+<td>https://www.breachlock.com/integrating-owasp-zap-in-devsecops-pipeline/</td>
+</tr> 
+<tr>
+<td>DAST Scan Automation in CICD Pipeline</td>
+<td>https://www.linkedin.com/pulse/automation-app-sec-vulnerability-scanningdast-cicd-satish-govindappa/</td>
+</tr>  
+<tr>
+<td>OWASP ZAP Zed Attack Proxy | OWASP</td>
+<td>https://owasp.org/www-project-zap/</td>
+</tr>   
+<tr>
+<td>w3af - Open Source Web Application Security Scanner</td>
+<td>http://w3af.org/</td>
+</tr>
+<tr>
+<td>Nikto2</td>
+<td>https://cirt.net/nikto2</td>
+</tr>           
+<tr>
+<td>Security as Code Webinar</td>
+<td>https://www.youtube.com/watch?v=SdkIRjX0-HY&feature=emb_logo</td>
+</tr>           
+ <tr>
+<td>Compliance As Code</td>
+<td>https://www.youtube.com/watch?v=fjMBUB55qis</td>
+</tr>          
+
+<tr>
+<td>Shell Programming</td>
+<td></td>
+</tr>
+<tr>
+<td>Introduction to PowerShell for Beginners Tutorials By Visualpath</td>
+<td>https://www.youtube.com/watch?v=-e6NN9IDPzY</td>
+</tr>           
+ <tr>
+<td>Bash Programming</td>
+<td></td>
+</tr>    
+<tr>
+<td>Bash Scripting Full Course 3 Hours</td>
+<td>https://www.youtube.com/watch?v=e7BufAVwDiM</td>
+</tr>
+<tr>
+<td>Python / Django </td>
+<td></td>
+</tr>           
+ <tr>
+<td>Python Tutorial For Beginners In Hindi (With Notes) 🔥</td>
+<td>https://www.youtube.com/watch?v=gfDE2a7MKjA&t=2622s</td>
+</tr>  
+ <tr>
+<td>Django Tutorial In Hindi</td>
+<td>https://www.youtube.com/watch?v=JxzZxdht-XY&t=2147s</td>
+</tr> 
+<tr>
+<td>Node.JS</td>
+<td></td>
+</tr>           
+  <tr>
+<td>Node.js Tutorial for Beginners: Learn Node in 1 Hour </td>
+<td>https://www.youtube.com/watch?v=BLl32FvcdVM</td>
+</tr>  
+<tr>
+<td>Docker</td>
+<td></td>
+</tr>  
+ <tr>
+<td>Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers</td>
+<td>https://www.youtube.com/watch?v=fqMOX6JJhGo</td>
+</tr>   
+ <tr>
+<td>Docker for Beginners: Full Free Course!</td>
+<td>https://www.youtube.com/watch?v=zJ6WbK9zFpI</td>
+</tr>          
+ <tr>
+<td>Docker Tutorial for Beginners | Full Course [2021]</td>
+<td>https://www.youtube.com/watch?v=p28piYY_wv8</td>
+</tr>          
+<tr>
+<td>Creating Django App on Docker</td>
+<td>https://www.youtube.com/watch?v=XDaQAmkDFX4</td>
+</tr>
+ <tr>
+<td>What is Docker and how it works ?</td>
+<td>https://www.youtube.com/watch?v=vWjP3fsfgrw&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=24</td>
+</tr>          
+
+<tr>
+<td>Docker Architecture in Hindi | Lec-25 | Benefits of Docker containers | Docker Limitations | Devops - YouTube</td>
+<td>https://www.youtube.com/watch?v=h17po-0DfWE&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=25</td>
+</tr>
+ <tr>
+<td>Dockerfile creation-Hindi/urdu | what is docker and how it works | what is docker file | Docker diff - YouTube</td>
+<td>https://www.youtube.com/watch?v=vEv0IxPEsW0&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=28</td>
+</tr>
+ <tr>
+<td>What is Docker Volume-Hindi/Urdu | How to Create Volumes | Docker Storage | Docker Volume tutorial - YouTube</td>
+<td>https://www.youtube.com/watch?v=OoZxPUgpUUM&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=29</td>
+</tr>          
+<tr>
+<td>Docker port mapping,restart container,exec container and docker expose | Docker port expose - YouTube</td>
+<td>https://www.youtube.com/watch?v=p4HuoL7hwXI&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=30</td>
+</tr>           
+ <tr>
+<td>What is docker hub and how it works-Hindi/Urdu | Create Docker hub account |Dockerhub push and pull - YouTube</td>
+<td>https://www.youtube.com/watch?v=3moRvwkqy_A&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=31</td>
+</tr>          
+<tr>
+<td>Online Lab for Docker </td>
+<td>https://labs.cognitiveclass.ai/tools/theiadocker/?md_instructions_url=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/cc201/labs/1_ContainersAndDocker/instructions.md&lti=true#</td>
+</tr> 
+ <tr>
+<td>Kubernetes</td>
+<td></td>
+</tr> 
            
 </table>
   
