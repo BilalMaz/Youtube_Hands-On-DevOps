@@ -115,7 +115,11 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
    <tr>
    <td>Linux Commands for DevOps | Linux Commands Tutorial for Beginners | DevOps Training | Intellipaat</td>
    <td>https://www.youtube.com/watch?v=hhoO57V_otc</td>
- </tr>      
+  </tr>      
+   <tr>
+   <td>Linux installation Lab - 1 </td>
+   <td>Install Linux on VM</td>
+  </tr>  
            
 </table>
   
