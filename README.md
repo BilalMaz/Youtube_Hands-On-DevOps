@@ -136,6 +136,19 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
     <td></td>
     
   </tr>      
+ <tr>
+   <td>What is CICD — Concepts in Continuous Integration and Deployment</td>
+   <td>https://medium.com/@nirespire/what-is-cicd-concepts-in-continuous-integration-and-deployment-4fe3f6625007</td>
+ </tr>   
+<tr>
+<td>Git & GitHub Crash Course For Beginners</td>
+<td>https://www.youtube.com/watch?v=SWYqp7iY_Tc</td>
+</tr>  
+<tr>
+<td>Git Tutorial | Github Tutorial | Git Tutorial for Beginners | Intellipaat</td>
+<td>https://www.youtube.com/watch?v=dnGeRjP8oxw</td>
+</tr>
+           
            
            
 </table>
