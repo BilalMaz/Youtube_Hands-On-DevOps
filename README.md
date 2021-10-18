@@ -353,6 +353,62 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <td><h3>Kubernetes</h3></td>
 <td></td>
 </tr> 
+ <tr>
+<td>Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]</td>
+<td>https://www.youtube.com/watch?v=X48VuDVv0do&t=46s</td>
+</tr>
+<tr>
+<td>kubernetes Tutorial | What is kubernetes | Intellipaat</td>
+<td>https://www.youtube.com/watch?v=W7hLMxNEEHQ</td>
+</tr> 
+ <tr>
+<td>What is Kubernetes | Kubernetes explained in 15 mins</td>
+<td>https://www.youtube.com/watch?v=VnvRFRk_51k&t=148s</td>
+</tr>          
+ <tr>
+<td>Kubernetes Tutorial for Beginners | Kubernetes Tutorial | Intellipaat</td>
+<td>https://www.youtube.com/watch?v=NsDhBEsTTHs</td>
+</tr>  
+<tr>
+<td>Introduction to Containers, Kubernetes, and OpenShift</td>
+<td>https://cognitiveclass.ai/courses/kubernetes-course</td>
+</tr> 
+ <tr>
+<td>What is Kubernetes-Hindi/Urdu | Lec-45 | Kubernetes tutorial for beginners | Kubernetes Introduction - YouTube</td>
+<td>https://www.youtube.com/watch?v=mYVzuE3daY8&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=45</td>
+</tr>          
+<tr>
+<td>Ansible</td>
+<td></td>
+</tr> 
+<tr>
+<td>Ansible Full Course | Ansible Tutorial For Beginners | Learn Ansible Step By Step | Simplilearn</td>
+<td>https://www.youtube.com/watch?v=EcnqJbxBcM0</td>
+</tr>          
+ <tr>
+<td>What is Ansible-Hindi/Urdu Part-1 | Ansible tutorial for beginners | How Ansible works | Devops tool - YouTube</td>
+<td>https://www.youtube.com/watch?v=75wa1N49b-o&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=31</td>
+</tr>  
+<tr>
+<td>Ansible Tutorial for Beginners | What is Ansible | Intellipaat</td>
+<td>https://www.youtube.com/watch?v=YI48bKykx7k</td>
+</tr>           
+ <tr>
+<td>Ansible Demo-Hindi/Urdu | Lec-32 | How to Establish ssh connection between server and Node | Devops - YouTube</td>
+<td>https://www.youtube.com/watch?v=kE-6KDyf-0o&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=33</td>
+</tr> 
+<tr>
+<td>Ansible Ad hoc commands,ansible modules Demo-Hindi/Urdu | What is Ansible in Devops |Complete Devops - YouTube</td>
+<td>https://www.youtube.com/watch?v=SR_CZcZQfqE&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=34</td>
+</tr>           
+<tr>
+<td>Ansible Playbook,Handlers,Variables,Dry Run and Loops-Hindi/Urdu | Ansible tutorial for beginners - YouTube</td>
+<td>https://www.youtube.com/watch?v=uyFrrKju4Es&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=35</td>
+</tr>  
+ <tr>
+<td>Ansible Roles,Conditions and Ansible Vault-Hindi/Urdu | What is Ansible | Ansible Full Course - YouTube</td>
+<td>https://www.youtube.com/watch?v=2UlTYJMi0YE&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=36</td>
+</tr>          
            
 </table>
   
