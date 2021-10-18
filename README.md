@@ -192,7 +192,7 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <td>https://www.youtube.com/watch?v=woMAXn4e8NA</td>
 </tr>           
 <tr>
-<td>Security Concepts</td>
+  <td><h3>Security Concepts</h3></td>
 <td></td>
 </tr>  
  <tr>
@@ -350,7 +350,7 @@ https://join.slack.com/t/newworkspace-nsy5918/shared_invite/zt-uqdgni3o-To5mxv1A
 <td>https://labs.cognitiveclass.ai/tools/theiadocker/?md_instructions_url=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/cc201/labs/1_ContainersAndDocker/instructions.md&lti=true#</td>
 </tr> 
  <tr>
-<td>Kubernetes</td>
+<td><h3>Kubernetes</h3></td>
 <td></td>
 </tr> 
            
